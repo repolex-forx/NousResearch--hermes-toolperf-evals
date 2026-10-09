@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-toolperf-evals",
+  "versions": [
+    {
+      "commit": "4e13ec24fafe94f48c9d96f4bdadb6b5577ebc02",
+      "parsed_at": "2026-10-09T07:09:19.422491+00:00",
+      "tag": "main",
+      "filetree": "filetree/4e13ec24fafe94f48c9d96f4bdadb6b5577ebc02.nq.gz",
+      "blobs": [
+        "blob/dde9ccbac5ef35c8f2cf604fa6c1f8c6a1a0044f.nq.gz",
+        "blob/d01b27581db64d62adcaf976e402f5965ecf2c99.nq.gz",
+        "blob/64447e108a1ed56e4a6f11e624ee93191d636460.nq.gz",
+        "blob/470ff9feb0209d3e772e41c312ffa93e474c18c8.nq.gz",
+        "blob/176685ecd316f213342509696e61227a36db5c4c.nq.gz",
+        "blob/22dfd87fc054fb758c6d8483a80a6aed7ba151a2.nq.gz",
+        "blob/d39daa66ef6bd04317aa390ff71b752dd9a57963.nq.gz",
+        "blob/f18dfd5fd1bc8c5b5e291971a4a37037f5804534.nq.gz",
+        "blob/bcb195c9647848899439b9c39bc2cc5a12bac1cd.nq.gz",
+        "blob/b5ca6a161d122ec0f510c7b3c5748ae30e834301.nq.gz",
+        "blob/82e9adf2ed9e9a3bfb834c9219b92f0b24abe872.nq.gz",
+        "blob/0f8525eaacf40cb7da6420362705eaa0c3443059.nq.gz",
+        "blob/fd4f8e5cf502b3296e92b94e18672518372b0c9d.nq.gz",
+        "blob/76d2676837809e59db3d066e49d93f9869730f84.nq.gz",
+        "blob/f53e255a230dac5ed5d4649727aa788a4c72165f.nq.gz",
+        "blob/7dbb94d427f8c39304b24eab03dbda98e537a68e.nq.gz",
+        "blob/be96e22fdffd6d5a0b08e937839474b05921885b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
