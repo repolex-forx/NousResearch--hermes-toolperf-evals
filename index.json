@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "hermes-toolperf-evals",
+  "versions": [
+    {
+      "commit": "4e13ec24fafe94f48c9d96f4bdadb6b5577ebc02",
+      "tag": "main",
+      "parsed_at": "2026-11-08T10:33:24.261646+00:00"
+    }
+  ]
+}
